@@ -1,0 +1,43 @@
+{
+  "name": "unger-theme",
+  "description": "Unger Theme Dark",
+  "displayName": "Unger Theme",
+  "version": "0.1.1",
+  "icon": "assets/unger-icon.png",
+  "keywords": ["theme","Unger","Unger Theme"],
+  "author": {
+    "name": "Fernando Unger",
+    "email": "fdasilvaunger@gmail.com"
+  },
+  "publisher": "FernandoUnger",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandounger/Unger-Theme"
+  },
+  "bugs": {
+    "url": "https://github.com/fernandounger/Unger-Theme/issues",
+    "email": "fdasilvaunger@gmail.com"
+  },
+  "homepage": "https://github.com/fernandounger/Unger-Theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unger Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/unger-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce publish --no-yarn"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.9.1"
+  }
+}
