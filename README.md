@@ -22,5 +22,5 @@ Theme created with a focus on black and pink colors.
 
 ## License
 
-[MIT © License](./LICENSE)
+[MIT © License](https://github.com/fernandounger/Unger-Theme/blob/master/LICENSE)
 
