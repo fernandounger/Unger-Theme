@@ -1,3 +1,9 @@
+
+
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/fernandounger.unger-theme.svg?color=%23E11F84&label=Visual%20Studio%20Marketplace&logo=visual-studio-code&style=plastic)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/fernandounger.unger-theme?color=%23E11F84&style=plastic)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/fernandounger.unger-theme.svg?color=%23E11F84&style=plastic)
+
 ![](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/KpicrNXHhZYEuAePIeCX5MEqpZh2/rTy2xCI4-default.jpeg)
 
 
