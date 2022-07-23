@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=FernandoUnger.Unger-Theme">
-    <img alt="marketplace" src="https://img.shields.io/visual-studio-marketplace/v/fernandounger.unger-theme?color=E11F84&label=Visual%20Studio%20Marketplace&logo=visual-studio-code&style=for-the-badge">
+    <img alt="marketplace" src="https://img.shields.io/visual-studio-marketplace/v/fernandounger.unger-theme?color=E11F84&label=VS%20Marketplace&logo=visual-studio-code&style=for-the-badge">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=FernandoUnger.Unger-Theme">
     <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/fernandounger.unger-theme?color=E11F84&style=for-the-badge">
